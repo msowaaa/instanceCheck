@@ -3,15 +3,7 @@ using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.IO;
 using System.Linq;
-using System.Net;
-using System.Web;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml;
-using System.Threading;
-
-namespace InstanceChechCopy
-{
+using System.Net;fgds
     class Program
     {
         static void Main(string[] args)
