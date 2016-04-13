@@ -16,7 +16,7 @@ namespace InstanceChechCopy
     {
         static void Main(string[] args)
         {
-            string url = "http://www.uat.primark.com";
+            string url = "http://www.uat.website.com";
             int wrongInstanceCounter = 0;
             int numbersOfChecks = 30;
             string instanceHeader;
